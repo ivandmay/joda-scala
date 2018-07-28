@@ -19,7 +19,7 @@ project/plugins/project/
 logs/
 project/*-shim.sbt
 project/project/
-project/target/
-target/
+project/target
+target
 .scala_dependencies
 .worksheet
