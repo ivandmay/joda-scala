@@ -1,4 +1,7 @@
+package engineering.ratel.utils.jodascala
+
 import org.joda.time.DateTime
+
 import scala.concurrent.duration._
 
 object JodaScala {
